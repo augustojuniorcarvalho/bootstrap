@@ -10,7 +10,8 @@
 <div class="container">
 	<form method="POST">
 		Nome<input type="text" class="form-control"/>
-		Email<input type="email" class="form-control"/><br>
+		Email<input type="email" class="form-control"/>
+		Deixe-nos um comentário<textarea class="form-control"></textarea><br>
 		<input type="submit" class="btn btn-primary"/>
 	</form>
 	<hr>
